@@ -606,5 +606,8 @@ header {
   .redes {
     margin-left: 28px;
   }
+  .redes :active {
+    color: black;
+  }
 }
 /*# sourceMappingURL=styles.css.map */
