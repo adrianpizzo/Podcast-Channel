@@ -7,6 +7,9 @@ body{
     display: -ms-flexbox;
 }
     
+a:visited{
+    color:black;
+}
     /* Comienzo de header - normal */
 
 #burger-close,
@@ -280,8 +283,6 @@ body{
     }
     .redes{
         margin-left: 28px;
-        :active{
-            color:black;
         }
-
-    }
+    
+    

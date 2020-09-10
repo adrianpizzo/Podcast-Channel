@@ -9,6 +9,10 @@ header {
   width: 100%;
 }
 
+a:visited {
+  color: black;
+}
+
 @media (max-width: 768px) {
   /* inicio Nav-Bar */
   * {
@@ -301,6 +305,9 @@ header {
   body {
     display: -webkit-box;
     display: -ms-flexbox;
+  }
+  a:visited {
+    color: black;
   }
   /* Comienzo de header - normal */
   #burger-close,
@@ -605,9 +612,6 @@ header {
   }
   .redes {
     margin-left: 28px;
-  }
-  .redes :active {
-    color: black;
   }
 }
 /*# sourceMappingURL=styles.css.map */
