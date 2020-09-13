@@ -418,7 +418,7 @@ a:visited {
     -webkit-clip-path: polygon(0 15%, 100% 0%, 100% 90%, 0% 100%);
             clip-path: polygon(0 15%, 100% 0%, 100% 90%, 0% 100%);
   }
-  h2 .tit-blanco-superior {
+  .tit-blanco-superior {
     margin-top: 200px;
     margin-left: 200px;
     margin-bottom: 26px;
@@ -429,6 +429,7 @@ a:visited {
     letter-spacing: 0;
   }
   .ctn {
+    margin-top: 26px;
     margin-left: 100px;
     display: -ms-grid;
     display: grid;

@@ -119,7 +119,7 @@ height: 1042.6px;
 background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
 clip-path: polygon(0 15%, 100% 0%, 100% 90%, 0% 100%);
 }
-h2 .tit-blanco-superior{
+.tit-blanco-superior{
 margin-top: 200px;
 margin-left: 200px;
 margin-bottom: 26px;    
@@ -130,6 +130,7 @@ color: #FFFFFF;
 letter-spacing: 0;
 }
 .ctn{
+    margin-top: 26px;
     margin-left: 100px;
     display: grid;
     grid-template-columns: 1fr 1fr;
